@@ -6,9 +6,9 @@ Age: 29
 
 Location: Portland, OR
 
-Job: Full time student
+Job: Astronaut
 
-Hobbies: Reading, gaming, spending time outdoors in the great NW
+Hobbies: Flying rockets, gaming, spending time on the moon with my alien friends
 
 ### Programming Background
 
