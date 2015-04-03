@@ -10,6 +10,10 @@ Job: Full time student
 
 Hobbies: Reading, gaming, spending time outdoors in the great NW
 
+Education: B.S. Biology from Oregon State University in 2009
+
+Family: Wife, Daughter(5) and Daughter(2 weeks)
+
 ### Programming Background
 
 My programming background is currently limited to the teamtreehouse.com classes on web development that I took over the summer as well as CS 165 and CS 270.
